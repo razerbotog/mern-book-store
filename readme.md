@@ -14,8 +14,8 @@ This project is a full-stack book store application built using the MERN (MongoD
 
 - **Frontend**: React.js, Axios, Notistack
 - **Backend**: Node.js, Express.js, MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **Styling**: CSS, Bootstrap
+- **Authentication**: JSON Web Tokens (JWT) (Will be use)
+- **Styling**: Tailwind CSS
 
 ## Getting Started
 
